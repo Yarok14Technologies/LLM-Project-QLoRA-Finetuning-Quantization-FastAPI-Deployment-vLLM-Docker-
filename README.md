@@ -288,7 +288,7 @@ PRs welcome for:
 
 # 📄 License
 
-Apache 2.0 (or your preferred license)
+Apache 2.0 (https://github.com/Yarok14Technologies/LLM-Project-QLoRA-Finetuning-Quantization-FastAPI-Deployment-vLLM-Docker-/blob/main/LICENSE)
 
 ---
 
